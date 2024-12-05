@@ -485,7 +485,7 @@ body {
 }
 
 .social-icons a:hover {
-  color:  #00c9a7;
+  color: #00c9a7;
 }
 
 
@@ -619,7 +619,7 @@ body {
 
 
 
-
+/* ALL LOCAL PAGES */
 
 
 
@@ -764,13 +764,6 @@ p {
 }
 
 
-
-
-
-
-
-
-
 .why-choose-us {
   margin-top: 40px;
   text-align: center;
@@ -812,7 +805,7 @@ p {
 .our-process {
   margin-top: 40px;
   padding: 20px;
-  
+
 }
 
 .our-process ul {
@@ -870,7 +863,7 @@ p {
 }
 
 .cta-button:hover {
-  background-color:  #00c9a7;
+  background-color: #00c9a7;
   color: white;
 }
 
@@ -894,7 +887,7 @@ p {
 .hero-section {
   text-align: center;
   padding: 20px;
- 
+
 }
 
 .hero-section .title {
@@ -961,7 +954,8 @@ p {
 .project-grid {
   padding: 20px;
 }
-.titleses{
+
+.titleses {
   text-align: center;
   margin-bottom: 2%;
   color: #00c9a7;
@@ -1154,7 +1148,7 @@ textarea {
 }
 
 .contact-details ul a {
-  color:#00c9a7;
+  color: #00c9a7;
   text-decoration: none;
 }
 
@@ -1167,4 +1161,3 @@ textarea {
 .social-links a:hover {
   text-decoration: underline;
 }
-
