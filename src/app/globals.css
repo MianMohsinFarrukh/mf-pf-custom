@@ -25,7 +25,7 @@ body {
   justify-content: space-between;
   align-items: center;
   max-width: 1200px;
-  margin: 0px 20px 0px 20px;
+  margin: 0px 4px 0px 4px;
   padding: 0 16px;
   height: 64px;
 }
@@ -84,6 +84,7 @@ body {
   color: #fff;
   cursor: pointer;
   margin-top: 2%;
+  margin-left: 4%;
 }
 
 .hamburger-button:focus {
@@ -102,6 +103,7 @@ body {
     background-color: #333;
     padding: 16px 0;
   }
+  
 
   .navbar-open {
     display: flex;
@@ -110,6 +112,7 @@ body {
 
   .hamburger-button {
     display: block;
+    font-size: xx-small;
   }
 }
 
@@ -751,7 +754,7 @@ p {
 
 @media (max-width: 768px) {
   .title {
-    font-size: 2rem;
+    font-size: 1rem;
   }
 
   .service-card h2 {
