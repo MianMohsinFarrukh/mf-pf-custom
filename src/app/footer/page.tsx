@@ -10,7 +10,7 @@ const Footer = () => {
           <h1 className="title">My Portfolio</h1>
         </div>
         <p>
-          © {new Date().getFullYear()} Your Portfolio. All rights reserved.
+          © {new Date().getFullYear()} Your Portfolio. All rights Reserved.
         </p>
         <div className="social-icons">
           <a href="https://facebook.com/yourprofile" target="_blank" rel="noopener noreferrer">
