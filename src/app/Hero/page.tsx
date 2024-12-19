@@ -63,7 +63,7 @@ const Hero = () => {
             We offer a range of services to help businesses and individuals bring their ideas to life. Our expertise includes:
           </p>
           <ul>
-            <li>Custom Web Application Development</li>
+            <li>Custom Web Applications Development</li>
             <li>Responsive and Modern UI/UX Design</li>
             <li>Full-Stack Development with Next.js and React</li>
             <li>API Integration and Development</li>
