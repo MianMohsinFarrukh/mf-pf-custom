@@ -107,7 +107,7 @@ body {
 
   .navbar-open {
     display: flex;
-    margin-left: 4%;
+    padding-left: 4%;
   }
 
   .hamburger-button {
