@@ -66,7 +66,7 @@ const Hero = () => {
             <li>Custom Web Applications Development</li>
             <li>Responsive and Modern UI/UX Design</li>
             <li>Full-Stack Development with Next.js and React</li>
-            <li>API Integration and Development</li>
+            <li>API Integration and Developments</li>
             <li>Performance Optimization and Maintenance</li>
           </ul>
           <p>
