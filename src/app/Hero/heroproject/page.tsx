@@ -23,9 +23,9 @@ const projects: Project[] = [
     id: 2,
     title: "E-Commerce App",
     description: "A fully functional e-commerce platform.",
-    image: "/images/project2.jpg",
-    liveLink: "https://yourecommerce.com",
-    repoLink: "https://github.com/yourusername/ecommerce",
+    image: "/images/ec.png",
+    liveLink: "https://hackathon-figma-urjt.vercel.app/",
+    repoLink: "https://github.com/MianMohsinFarrukh/hackathon-figma",
   },
   {
     id: 3,
