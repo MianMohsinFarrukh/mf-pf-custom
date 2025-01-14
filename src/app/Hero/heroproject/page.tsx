@@ -15,9 +15,9 @@ const projects: Project[] = [
     id: 1,
     title: "Portfolio Website",
     description: "A modern portfolio showcasing my skills and projects.",
-    image: "/images/project1.jpg",
-    liveLink: "https://yourportfolio.com",
-    repoLink: "https://github.com/yourusername/portfolio",
+    image: "/images/por.png",
+    liveLink: "https://mfportfolio-eight.vercel.app/",
+    repoLink: "https://github.com/MianMohsinFarrukh/mfportfolio",
   },
   {
     id: 2,
@@ -68,7 +68,7 @@ const Projects = () => {
       <div className="projects-container">
         {projects.map((project) => (
           <div className="project-card" key={project.id}>
-            <img src={project.image} alt={project.title} className="project-image" />
+            <img src={project.image} alt={project.title} className="project-image " />
             <h3>{project.title}</h3>
             <p>{project.description}</p>
             <div className="project-links">
