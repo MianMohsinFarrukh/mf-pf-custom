@@ -33,7 +33,7 @@ const projects: Project[] = [
     description: "A blog application with rich text editing and sharing.",
     image: "/images/project3.jpg",
     liveLink: "https://yourblog.com",
-    repoLink: "https://github.com/yourusername/blog",
+    repoLink: "https://github.com/MianMohsinFarrukh",
   },
   {
     id: 4,
