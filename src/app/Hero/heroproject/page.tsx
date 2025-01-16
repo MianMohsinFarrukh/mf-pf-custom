@@ -41,7 +41,7 @@ const projects: Project[] = [
     description: "A productivity tool to manage daily tasks efficiently.",
     image: "/images/project4.jpg",
     liveLink: "https://yourtaskmanager.com",
-    repoLink: "https://github.com/yourusername/taskmanager",
+    repoLink: "https://github.com/MianMohsinFarrukh",
   },
   {
     id: 5,
@@ -49,7 +49,7 @@ const projects: Project[] = [
     description: "A weather forecasting app using public APIs.",
     image: "/images/project5.jpg",
     liveLink: "https://yourweatherapp.com",
-    repoLink: "https://github.com/yourusername/weatherapp",
+    repoLink: "https://github.com/MianMohsinFarrukh",
   },
   {
     id: 6,
