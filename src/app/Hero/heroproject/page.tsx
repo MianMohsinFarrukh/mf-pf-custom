@@ -56,7 +56,7 @@ const projects: Project[] = [
     title: "Chat Application",
     description: "A real-time chat application with WebSocket.",
     image: "/images/project6.jpg",
-    liveLink: "https://yourchatapp.com",
+    liveLink: "https://github.com/MianMohsinFarrukh",
     repoLink: "https://github.com/MianMohsinFarrukh",
   },
 ];
