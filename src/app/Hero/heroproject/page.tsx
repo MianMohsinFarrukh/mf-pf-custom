@@ -53,7 +53,7 @@ const projects: Project[] = [
   },
   {
     id: 6,
-    title: "Chat Application",
+    title: "Chat App",
     description: "A real-time chat application with WebSocket.",
     image: "/images/project6.jpg",
     liveLink: "https://github.com/MianMohsinFarrukh",
