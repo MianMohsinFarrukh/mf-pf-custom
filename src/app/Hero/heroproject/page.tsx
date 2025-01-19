@@ -40,7 +40,7 @@ const projects: Project[] = [
     title: "Task Manager",
     description: "A productivity tool to manage daily tasks efficiently.",
     image: "/images/project4.jpg",
-    liveLink: "https://yourtaskmanager.com",
+    liveLink: "https://github.com/MianMohsinFarrukh",
     repoLink: "https://github.com/MianMohsinFarrukh",
   },
   {
